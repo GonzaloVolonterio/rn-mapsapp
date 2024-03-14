@@ -1,4 +1,5 @@
 
+![a001-1](https://github.com/GonzaloVolonterio/rn-mapsapp/assets/64506662/87ece295-4054-4d99-bfc5-2398044de623)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
