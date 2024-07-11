@@ -24,6 +24,7 @@
  React-native-safe-area-context
  React-native-screens
  React-native-vector-icons
+ Typescript
  Zustand
 ```
 
