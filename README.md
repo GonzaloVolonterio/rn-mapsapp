@@ -42,6 +42,6 @@ yarn android
 yarn ios
 ```
 
-![a001-1](https://github.com/GonzaloVolonterio/rn-mapsapp/assets/64506662/87ece295-4054-4d99-bfc5-2398044de623)
+![mapapp](https://github.com/GonzaloVolonterio/rn-mapsapp/assets/64506662/742cbb95-5625-4081-8525-693a3f6dd0e2)
 
 
